@@ -1,0 +1,2 @@
+# hugging_face_template
+用于制作生成hugging_face项目的模板，
